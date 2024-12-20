@@ -1,0 +1,330 @@
+/* Общие стили */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+/* Header и навигация (Flexbox) */
+header {
+    background-color: #1c1c1c;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Impact', sans-serif;
+    font-size: 2.5em;
+}
+
+nav {
+    margin: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #f39c12;
+    text-decoration: none;
+    font-family: 'Courier New', monospace;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #d48a04;
+    transform: scale(1.1);
+}
+
+/* Секции */
+section {
+    margin-bottom: 20px;
+}
+
+/* index.html - about-section */
+.about-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
+/* Анимация заголовка (index.html) */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animated-title {
+    animation: fadeIn 1s ease-out;
+}
+
+/* Анимация изображения (index.html) */
+@keyframes fadeInImage {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.animated-image {
+    animation: fadeInImage 1s ease-out 0.5s;
+    animation-fill-mode: backwards;
+}
+
+/* index.html - news-section */
+#news-section {
+    margin-bottom: 20px;
+}
+
+#news-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.news-item {
+    background-color: #333;
+    padding: 15px;
+    border-radius: 5px;
+    width: calc(50% - 10px); /* 2 колонки на больших экранах */
+}
+
+.news-item h3 {
+    margin-top: 0;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #1c1c1c;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Медиазапросы для адаптивности */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    .news-item {
+        width: 100%; /* 1 колонка на маленьких экранах */
+    }
+}
+
+/* Таблица концертов */
+.concerts-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.concerts-table th,
+.concerts-table td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: left;
+    font-family: 'Georgia', serif;
+}
+
+.concerts-table th {
+    background-color: #d35400;
+    color: white;
+}
+
+.concerts-table tr:nth-child(even) {
+    background-color: #333;
+}
+
+.concerts-table tr:nth-child(odd) {
+    background-color: #444;
+}
+
+/* Анимация строк таблицы (concerts.html) */
+.concerts-table tbody tr:hover {
+    background-color: #666;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+/* Сообщение об ошибке */
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+/* albums.html (Grid) */
+#albums-container {  /* Изменили селектор */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.albums-section article { /* Стили для article остаются */
+    background-color: #333;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.albums-section h3 {
+    margin-top: 0;
+    color: #d35400;
+    font-size: 1.4em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.albums-section p strong {
+    color: #d35400;
+}
+
+.albums-section ul {
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.albums-section li {
+    margin-bottom: 5px;
+}
+
+/* Анимация при наведении на карточку альбома */
+.albums-section article:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    transform: translateY(-5px);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+/* Сообщение об ошибке */
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+/* Медиазапросы для адаптивности */
+@media (max-width: 768px) {
+    .albums-section {
+        grid-template-columns: 1fr; /* На узких экранах одна колонка */
+    }
+}
+
+/* contact.html */
+.contact-links ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin-top: 20px; /* Добавил отступ сверху */
+}
+
+.contact-links li {
+    margin: 0 10px;
+}
+
+.contact-links a {
+    text-decoration: none;
+    color: #f39c12;
+    transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.contact-links a:hover {
+    color: #d48a04;
+    text-decoration: underline;
+    transform: translateY(-2px);
+}
+
+/* Форма */
+#contact-form {
+    margin-top: 20px;
+    width: 100%; /* Занимает всю ширину контейнера */
+    max-width: 600px; /* Ограничиваем максимальную ширину */
+}
+
+#contact-form div {
+    margin-bottom: 10px;
+}
+
+#contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+    width: calc(100% - 22px); /* Ширина с учетом padding и border */
+    padding: 8px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    background-color: #333; /* Цвет фона для полей ввода */
+    color: #fff; /* Цвет текста для полей ввода */
+}
+
+#contact-form textarea {
+    height: 120px;
+}
+
+#contact-form button {
+    padding: 10px 15px;
+    background-color: #d35400;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#contact-form button:hover {
+    background-color: #b94a00;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    display: none; /* Изначально скрываем сообщения об ошибках */
+}

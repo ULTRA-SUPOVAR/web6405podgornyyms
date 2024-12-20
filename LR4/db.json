@@ -1,0 +1,284 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Новый альбом Sabaton выйдет в следующем году!",
+      "date": "2023-10-27",
+      "content": "Группа Sabaton анонсировала выход нового альбома..."
+    },
+    {
+      "id": 2,
+      "title": "Концерт в Москве!",
+      "date": "2023-10-26",
+      "content": "Sabaton выступят в Москве 15 декабря..."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "d6e8",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "message": "вмыямв"
+    },
+    {
+      "id": "e887",
+      "name": "Максим Подгорный",
+      "email": "podgornyyms@gmail.com",
+      "message": "Я ваш единственный фанат, все это время я создавал видимость вашей популярности, сейчас отправлю это сообщение со всех аккаунтов"
+    }
+  ],
+  "concerts": [
+    {
+      "date": "20 марта 2022",
+      "city": "Лиссабон",
+      "venue": "Campo Pequeno"
+    },
+    {
+      "date": "21 марта 2022",
+      "city": "Мадрид",
+      "venue": "WiZink Center"
+    },
+    {
+      "date": "24 марта 2022",
+      "city": "Итальянский Рим",
+      "venue": "Palalottomatica"
+    },
+    {
+      "date": "25 марта 2022",
+      "city": "Милан",
+      "venue": "Alcatraz"
+    },
+    {
+      "date": "28 марта 2022",
+      "city": "Франкфурт",
+      "venue": "Festhalle Frankfurt"
+    },
+    {
+      "date": "29 марта 2022",
+      "city": "Мюнхен",
+      "venue": "Zenith"
+    },
+    {
+      "date": "1 апреля 2022",
+      "city": "Цюрих",
+      "venue": "Halle 622"
+    },
+    {
+      "date": "2 апреля 2022",
+      "city": "Люксембург",
+      "venue": "Rockhal"
+    },
+    {
+      "date": "5 апреля 2022",
+      "city": "Париж",
+      "venue": "Le Zénith"
+    },
+    {
+      "date": "6 апреля 2022",
+      "city": "Лилль",
+      "venue": "Le Zenith"
+    },
+    {
+      "date": "9 апреля 2022",
+      "city": "Неаполь",
+      "venue": "Casa della Musica"
+    },
+    {
+      "date": "12 апреля 2022",
+      "city": "Копенгаген",
+      "venue": "K.B. Hallen"
+    },
+    {
+      "date": "13 апреля 2022",
+      "city": "Осло",
+      "venue": "Folketeateret"
+    },
+    {
+      "date": "15 апреля 2022",
+      "city": "Стокгольм",
+      "venue": "Annexet"
+    },
+    {
+      "date": "16 апреля 2022",
+      "city": "Гетеборг",
+      "venue": "Gota Kallare"
+    },
+    {
+      "date": "19 апреля 2022",
+      "city": "Хельсинки",
+      "venue": "Rockhalla"
+    },
+    {
+      "date": "22 апреля 2022",
+      "city": "Таллин",
+      "venue": "Стадион А.С. Пушкина"
+    },
+    {
+      "date": "29 июня 2022",
+      "city": "Ульм",
+      "venue": "Ratiopharm Arena"
+    },
+    {
+      "date": "30 июня 2022",
+      "city": "Фрайбург",
+      "venue": "Stadthalle"
+    },
+    {
+      "date": "1 июля 2022",
+      "city": "Штутгарт",
+      "venue": "Schleyer-Halle"
+    },
+    {
+      "date": "2 июля 2022",
+      "city": "Мюнхен",
+      "venue": "Olympiahalle"
+    },
+    {
+      "date": "6 февраля 2023",
+      "city": "Гааги",
+      "venue": "Paard"
+    },
+    {
+      "date": "7 февраля 2023",
+      "city": "Амстердам",
+      "venue": "Melkweg"
+    },
+    {
+      "date": "8 февраля 2023",
+      "city": "Брюссель",
+      "venue": "Ancienne Belgique"
+    }
+  ],
+  "albums": [
+    {
+      "title": "Primo Victoria",
+      "year": 2005,
+      "releaseDate": "4 марта 2005 года",
+      "description": "Дебютный студийный альбом группы, выпущенный в 2005 году. Тексты песен посвящены различным сражениям Второй мировой войны.",
+      "songs": [
+        "Primo Victoria",
+        "Reign of Terror",
+        "Panzer Battalion",
+        "Wolfpack",
+        "Counterstrike",
+        "Stalingrad",
+        "Into the Fire",
+        "Purple Heart",
+        "Metal Machine"
+      ]
+    },
+    {
+      "title": "Attero Dominatus",
+      "year": 2006,
+      "releaseDate": "28 июля 2006 года",
+      "description": "Второй студийный альбом группы, вышедший в 2006 году. Альбом продолжает тему военных действий, начатую на предыдущем альбоме.",
+      "songs": [
+        "Attero Dominatus",
+        "Nuclear Attack",
+        "Rise of Evil",
+        "In the Name of God",
+        "We Burn",
+        "Angels Calling",
+        "Back in Control",
+        "Light in the Black",
+        "Metal Crüe"
+      ]
+    },
+    {
+      "title": "The Art of War",
+      "year": 2008,
+      "releaseDate": "30 мая 2008 года",
+      "description": "Четвёртый студийный альбом группы, вышедший в 2008 году. Концепция альбома основана на трактате «Искусство войны» китайского полководца Сунь-цзы.",
+      "songs": [
+        "Sun Tzu Says",
+        "Ghost Division",
+        "The Art of War",
+        "40:1",
+        "Unbreakable",
+        "The Nature of Warfare",
+        "Cliffs of Gallipoli",
+        "Talvisota",
+        "Panzerkampf",
+        "Union (Slopes of St. Benedict)",
+        "The Price of a Mile",
+        "Firestorm",
+        "A Secret"
+      ]
+    },
+    {
+      "title": "Carolus Rex",
+      "year": 2012,
+      "releaseDate": "23 мая 2012 года",
+      "description": "Шестой студийный альбом группы, вышедший в 2012 году. Концептуальный альбом, посвящённый Шведской империи, в основном повествующий о шведском короле Карле XII.",
+      "songs": [
+        "Dominium Maris Baltici",
+        "The Lion From the North",
+        "Gott Mit Uns",
+        "A Lifetime of War",
+        "1 6 4 8",
+        "The Carolean's Prayer",
+        "Carolus Rex",
+        "Killing Ground",
+        "Poltava",
+        "Long Live the King",
+        "Ruina Imperii"
+      ]
+    },
+    {
+      "title": "Heroes",
+      "year": 2014,
+      "releaseDate": "16 мая 2014 года",
+      "description": "Седьмой студийный альбом группы, вышедший в 2014 году. Концептуальный альбом, посвящённый героям Второй мировой войны.",
+      "songs": [
+        "Night Witches",
+        "No Bullets Fly",
+        "Smoking Snakes",
+        "Inmate 4859",
+        "To Hell and Back",
+        "The Ballad of Bull",
+        "Resist and Bite",
+        "Soldier of 3 Armies",
+        "Far from the Fame",
+        "Hearts of Iron"
+      ]
+    },
+    {
+      "title": "The Last Stand",
+      "year": 2016,
+      "releaseDate": "19 августа 2016 года",
+      "description": "Восьмой студийный альбом группы, вышедший в 2016 году. Концептуальный альбом, посвящённый знаменитым последним битвам.",
+      "songs": [
+        "Sparta",
+        "Last Dying Breath",
+        "Blood of Bannockburn",
+        "Diary of an Unknown Soldier",
+        "The Lost Battalion",
+        "Rorke's Drift",
+        "The Last Stand",
+        "Hill 3234",
+        "Shiroyama",
+        "Winged Hussars",
+        "The Last Battle"
+      ]
+    },
+    {
+      "title": "The Great War",
+      "year": 2019,
+      "releaseDate": "19 июля 2019 года",
+      "description": "Девятый студийный альбом группы, вышедший в 2019 году. Концептуальный альбом, посвящённый Первой мировой войне.",
+      "songs": [
+        "The Future of Warfare",
+        "Seven Pillars of Wisdom",
+        "82nd All the Way",
+        "The Attack of the Dead Men",
+        "Devil Dogs",
+        "The Red Baron",
+        "Great War",
+        "A Ghost in the Trenches",
+        "Fields of Verdun",
+        "The End of the War to End All Wars",
+        "In Flanders Fields"
+      ]
+    }
+  ]
+}
