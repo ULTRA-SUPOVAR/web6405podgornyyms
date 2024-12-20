@@ -29,124 +29,264 @@
   ],
   "concerts": [
     {
-      "date": "20 марта 2022",
-      "city": "Лиссабон",
-      "venue": "Campo Pequeno"
+      "date": "2023-03-04",
+      "city": "Oslo",
+      "venue": "Spektrum"
     },
     {
-      "date": "21 марта 2022",
-      "city": "Мадрид",
-      "venue": "WiZink Center"
+      "date": "2023-03-05",
+      "city": "Stockholm",
+      "venue": "Avicii Arena"
     },
     {
-      "date": "24 марта 2022",
-      "city": "Итальянский Рим",
-      "venue": "Palalottomatica"
+      "date": "2023-03-07",
+      "city": "Kuopio",
+      "venue": "Kuopio-halli"
     },
     {
-      "date": "25 марта 2022",
-      "city": "Милан",
-      "venue": "Alcatraz"
+      "date": "2023-03-08",
+      "city": "Helsinki",
+      "venue": "Helsingin Jäähalli"
     },
     {
-      "date": "28 марта 2022",
-      "city": "Франкфурт",
-      "venue": "Festhalle Frankfurt"
+      "date": "2023-03-10",
+      "city": "Tallinn",
+      "venue": "Saku Suurhall"
     },
     {
-      "date": "29 марта 2022",
-      "city": "Мюнхен",
-      "venue": "Zenith"
+      "date": "2023-03-11",
+      "city": "Riga",
+      "venue": "Arena Riga"
     },
     {
-      "date": "1 апреля 2022",
-      "city": "Цюрих",
-      "venue": "Halle 622"
+      "date": "2023-03-13",
+      "city": "Gdansk",
+      "venue": "Ergo Arena"
     },
     {
-      "date": "2 апреля 2022",
-      "city": "Люксембург",
-      "venue": "Rockhal"
+      "date": "2023-03-14",
+      "city": "Berlin",
+      "venue": "Mercedes-Benz Arena"
     },
     {
-      "date": "5 апреля 2022",
-      "city": "Париж",
-      "venue": "Le Zénith"
+      "date": "2023-03-15",
+      "city": "Prague",
+      "venue": "O2 Arena"
     },
     {
-      "date": "6 апреля 2022",
-      "city": "Лилль",
-      "venue": "Le Zenith"
-    },
-    {
-      "date": "9 апреля 2022",
-      "city": "Неаполь",
-      "venue": "Casa della Musica"
-    },
-    {
-      "date": "12 апреля 2022",
-      "city": "Копенгаген",
-      "venue": "K.B. Hallen"
-    },
-    {
-      "date": "13 апреля 2022",
-      "city": "Осло",
-      "venue": "Folketeateret"
-    },
-    {
-      "date": "15 апреля 2022",
-      "city": "Стокгольм",
-      "venue": "Annexet"
-    },
-    {
-      "date": "16 апреля 2022",
-      "city": "Гетеборг",
-      "venue": "Gota Kallare"
-    },
-    {
-      "date": "19 апреля 2022",
-      "city": "Хельсинки",
-      "venue": "Rockhalla"
-    },
-    {
-      "date": "22 апреля 2022",
-      "city": "Таллин",
-      "venue": "Стадион А.С. Пушкина"
-    },
-    {
-      "date": "29 июня 2022",
-      "city": "Ульм",
-      "venue": "Ratiopharm Arena"
-    },
-    {
-      "date": "30 июня 2022",
-      "city": "Фрайбург",
+      "date": "2023-03-17",
+      "city": "Vienna",
       "venue": "Stadthalle"
     },
     {
-      "date": "1 июля 2022",
-      "city": "Штутгарт",
-      "venue": "Schleyer-Halle"
+      "date": "2023-03-18",
+      "city": "Budapest",
+      "venue": "Arena"
     },
     {
-      "date": "2 июля 2022",
-      "city": "Мюнхен",
+      "date": "2023-03-19",
+      "city": "Zürich",
+      "venue": "Hallenstadion"
+    },
+    {
+      "date": "2023-03-21",
+      "city": "Padova",
+      "venue": "Kioene Arena"
+    },
+    {
+      "date": "2023-03-22",
+      "city": "Milan",
+      "venue": "Mediolanum Forum"
+    },
+    {
+      "date": "2023-03-24",
+      "city": "Geneva",
+      "venue": "Arena"
+    },
+    {
+      "date": "2023-03-25",
+      "city": "Lyon",
+      "venue": "Halle Tony Garnier"
+    },
+    {
+      "date": "2023-03-26",
+      "city": "Paris",
+      "venue": "La Seine Musicale"
+    },
+    {
+      "date": "2023-03-28",
+      "city": "Luxembourg",
+      "venue": "Rockhal"
+    },
+    {
+      "date": "2023-03-29",
+      "city": "Amsterdam",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "2023-03-31",
+      "city": "Hamburg",
+      "venue": "Barclays Arena"
+    },
+    {
+      "date": "2023-04-01",
+      "city": "Frankfurt",
+      "venue": "Festhalle"
+    },
+    {
+      "date": "2023-04-02",
+      "city": "Cologne",
+      "venue": "Lanxess Arena"
+    },
+    {
+      "date": "2023-04-04",
+      "city": "Tilburg",
+      "venue": "013"
+    },
+    {
+      "date": "2023-04-06",
+      "city": "Copenhagen",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "2023-04-07",
+      "city": "Leipzig",
+      "venue": "Quarterback Immobilien Arena"
+    },
+    {
+      "date": "2023-04-08",
+      "city": "Krakow",
+      "venue": "Tauron Arena"
+    },
+    {
+      "date": "2023-04-10",
+      "city": "Esch-sur-Alzette",
+      "venue": "Rockhal"
+    },
+    {
+      "date": "2023-04-12",
+      "city": "Brussels",
+      "venue": "Forest National"
+    },
+    {
+      "date": "2023-04-14",
+      "city": "Leeds",
+      "venue": "First Direct Arena"
+    },
+    {
+      "date": "2023-04-15",
+      "city": "London",
+      "venue": "OVO Arena Wembley"
+    },
+    {
+      "date": "2023-04-16",
+      "city": "Cardiff",
+      "venue": "Motorpoint Arena"
+    },
+    {
+      "date": "2023-04-18",
+      "city": "Glasgow",
+      "venue": "OVO Hydro"
+    },
+    {
+      "date": "2023-04-21",
+      "city": "Paris",
+      "venue": "Zenith"
+    },
+    {
+      "date": "2023-04-22",
+      "city": "Amsterdam",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "2023-04-24",
+      "city": "Munich",
       "venue": "Olympiahalle"
     },
     {
-      "date": "6 февраля 2023",
-      "city": "Гааги",
-      "venue": "Paard"
+      "date": "2023-04-25",
+      "city": "Stuttgart",
+      "venue": "Hanns-Martin-Schleyer-Halle"
     },
     {
-      "date": "7 февраля 2023",
-      "city": "Амстердам",
-      "venue": "Melkweg"
+      "date": "2023-04-28",
+      "city": "Stockholm",
+      "venue": "Avicii Arena"
     },
     {
-      "date": "8 февраля 2023",
-      "city": "Брюссель",
-      "venue": "Ancienne Belgique"
+      "date": "2023-04-29",
+      "city": "Oslo",
+      "venue": "Spektrum"
+    },
+    {
+      "date": "2023-04-30",
+      "city": "Copenhagen",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "2023-05-02",
+      "city": "Hannover",
+      "venue": "ZAG Arena"
+    },
+    {
+      "date": "2023-05-03",
+      "city": "Leipzig",
+      "venue": "Quarterback Immobilien Arena"
+    },
+    {
+      "date": "2023-05-05",
+      "city": "Berlin",
+      "venue": "Mercedes-Benz Arena"
+    },
+    {
+      "date": "2023-05-06",
+      "city": "Lodz",
+      "venue": "Atlas Arena"
+    },
+    {
+      "date": "2023-05-07",
+      "city": "Prague",
+      "venue": "O2 Arena"
+    },
+    {
+      "date": "2023-05-09",
+      "city": "Vienna",
+      "venue": "Stadthalle"
+    },
+    {
+      "date": "2023-05-10",
+      "city": "Budapest",
+      "venue": "Arena"
+    },
+    {
+      "date": "2023-05-12",
+      "city": "Cologne",
+      "venue": "Lanxess Arena"
+    },
+    {
+      "date": "2023-05-13",
+      "city": "Antwerp",
+      "venue": "Sportpaleis"
+    },
+    {
+      "date": "2023-05-15",
+      "city": "Hamburg",
+      "venue": "Barclays Arena"
+    },
+    {
+      "date": "2023-05-19",
+      "city": "Tallinn",
+      "venue": "Saku Suurhall"
+    },
+    {
+      "date": "2023-05-20",
+      "city": "Kuopio",
+      "venue": "Kuopio-halli"
+    },
+    {
+      "date": "2023-05-21",
+      "city": "Helsinki",
+      "venue": "Helsingin Jäähalli"
     }
   ],
   "albums": [
@@ -180,8 +320,31 @@
         "We Burn",
         "Angels Calling",
         "Back in Control",
-        "Light in the Black",
+        "A Light in the Black",
         "Metal Crüe"
+      ]
+    },
+    {
+      "title": "Metalizer",
+      "year": 2007,
+      "releaseDate": "16 марта 2007 года",
+      "description": "Третий студийный альбом группы, выпущенный в 2007 году как двойной альбом, включающий в себя демо-записи, записанные в 2002 году, а также ранее не издававшиеся треки.",
+      "songs": [
+        "Hellrider",
+        "Thundergods",
+        "Metalizer",
+        "Shadows",
+        "Burn Your Crosses",
+        "7734",
+        "Endless Nights",
+        "Hail to the King",
+        "Thunderstorm",
+        "Speeder",
+        "Masters of the World",
+        "Jawbreaker",
+        "Dream Destroyer",
+        "Panzer Battalion (Demo Version)",
+        "Hellrider (Live in Västerås 2006)"
       ]
     },
     {
@@ -203,6 +366,24 @@
         "The Price of a Mile",
         "Firestorm",
         "A Secret"
+      ]
+    },
+    {
+      "title": "Coat of Arms",
+      "year": 2010,
+      "releaseDate": "21 мая 2010 года",
+      "description": "Пятый студийный альбом группы, вышедший в 2010 году. Тексты песен посвящены различным сражениям Второй мировой войны, а также другим историческим событиям.",
+      "songs": [
+        "Coat of Arms",
+        "Midway",
+        "Uprising",
+        "Screaming Eagles",
+        "The Final Solution",
+        "Aces in Exile",
+        "Saboteurs",
+        "Wehrmacht",
+        "White Death",
+        "Metal Ripper"
       ]
     },
     {
@@ -278,6 +459,25 @@
         "Fields of Verdun",
         "The End of the War to End All Wars",
         "In Flanders Fields"
+      ]
+    },
+    {
+      "title": "The War To End All Wars",
+      "year": 2022,
+      "releaseDate": "4 марта 2022 года",
+      "description": "Десятый студийный альбом группы, вышедший в 2022 году. Концептуальный альбом, посвящённый Первой мировой войне, является продолжением альбома The Great War.",
+      "songs": [
+        "Sarajevo",
+        "Stormtroopers",
+        "Dreadnought",
+        "The Unkillable Soldier",
+        "Soldier of Heaven",
+        "Hellfighters",
+        "Race to the Sea",
+        "Lady of the Dark",
+        "The Valley of Death",
+        "Christmas Truce",
+        "Versailles"
       ]
     }
   ]

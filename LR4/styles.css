@@ -63,6 +63,42 @@ section {
     margin-bottom: 20px;
 }
 
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #1c1c1c;
+    color: white;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Медиазапросы для адаптивности */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        margin: 10px 0;
+    }
+
+    .news-item {
+        width: 100%; /* 1 колонка на маленьких экранах */
+    }
+}
+
+/* Сообщение об ошибке */
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+/* Стили для index.html */
 /* index.html - about-section */
 .about-section {
     display: flex;
@@ -131,35 +167,7 @@ section {
     margin-top: 0;
 }
 
-/* Footer */
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #1c1c1c;
-    color: white;
-    font-family: 'Arial', sans-serif;
-}
-
-/* Медиазапросы для адаптивности */
-@media (max-width: 768px) {
-    header {
-        flex-direction: column;
-    }
-
-    nav ul {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 10px 0;
-    }
-
-    .news-item {
-        width: 100%; /* 1 колонка на маленьких экранах */
-    }
-}
-
+/* Стили для concerts.html */
 /* Таблица концертов */
 .concerts-table {
     width: 100%;
@@ -195,11 +203,7 @@ footer {
     cursor: pointer;
 }
 
-/* Сообщение об ошибке */
-.error-message {
-    color: red;
-    margin-top: 10px;
-}
+/* Стили для albums.html */
 /* albums.html (Grid) */
 #albums-container {  /* Изменили селектор */
     display: grid;
@@ -242,12 +246,6 @@ footer {
     cursor: pointer;
 }
 
-/* Сообщение об ошибке */
-.error-message {
-    color: red;
-    margin-top: 10px;
-}
-
 /* Медиазапросы для адаптивности */
 @media (max-width: 768px) {
     .albums-section {
@@ -255,6 +253,7 @@ footer {
     }
 }
 
+/* Стили для contact.html */
 /* contact.html */
 .contact-links ul {
     display: flex;
