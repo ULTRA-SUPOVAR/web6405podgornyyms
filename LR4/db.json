@@ -1,0 +1,484 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Новый альбом Sabaton выйдет в следующем году!",
+      "date": "2023-10-27",
+      "content": "Группа Sabaton анонсировала выход нового альбома..."
+    },
+    {
+      "id": 2,
+      "title": "Концерт в Москве!",
+      "date": "2023-10-26",
+      "content": "Sabaton выступят в Москве 15 декабря..."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "d6e8",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "message": "вмыямв"
+    },
+    {
+      "id": "e887",
+      "name": "Максим Подгорный",
+      "email": "podgornyyms@gmail.com",
+      "message": "Я ваш единственный фанат, все это время я создавал видимость вашей популярности, сейчас отправлю это сообщение со всех аккаунтов"
+    }
+  ],
+  "concerts": [
+    {
+      "date": "2023-03-04",
+      "city": "Oslo",
+      "venue": "Spektrum"
+    },
+    {
+      "date": "2023-03-05",
+      "city": "Stockholm",
+      "venue": "Avicii Arena"
+    },
+    {
+      "date": "2023-03-07",
+      "city": "Kuopio",
+      "venue": "Kuopio-halli"
+    },
+    {
+      "date": "2023-03-08",
+      "city": "Helsinki",
+      "venue": "Helsingin Jäähalli"
+    },
+    {
+      "date": "2023-03-10",
+      "city": "Tallinn",
+      "venue": "Saku Suurhall"
+    },
+    {
+      "date": "2023-03-11",
+      "city": "Riga",
+      "venue": "Arena Riga"
+    },
+    {
+      "date": "2023-03-13",
+      "city": "Gdansk",
+      "venue": "Ergo Arena"
+    },
+    {
+      "date": "2023-03-14",
+      "city": "Berlin",
+      "venue": "Mercedes-Benz Arena"
+    },
+    {
+      "date": "2023-03-15",
+      "city": "Prague",
+      "venue": "O2 Arena"
+    },
+    {
+      "date": "2023-03-17",
+      "city": "Vienna",
+      "venue": "Stadthalle"
+    },
+    {
+      "date": "2023-03-18",
+      "city": "Budapest",
+      "venue": "Arena"
+    },
+    {
+      "date": "2023-03-19",
+      "city": "Zürich",
+      "venue": "Hallenstadion"
+    },
+    {
+      "date": "2023-03-21",
+      "city": "Padova",
+      "venue": "Kioene Arena"
+    },
+    {
+      "date": "2023-03-22",
+      "city": "Milan",
+      "venue": "Mediolanum Forum"
+    },
+    {
+      "date": "2023-03-24",
+      "city": "Geneva",
+      "venue": "Arena"
+    },
+    {
+      "date": "2023-03-25",
+      "city": "Lyon",
+      "venue": "Halle Tony Garnier"
+    },
+    {
+      "date": "2023-03-26",
+      "city": "Paris",
+      "venue": "La Seine Musicale"
+    },
+    {
+      "date": "2023-03-28",
+      "city": "Luxembourg",
+      "venue": "Rockhal"
+    },
+    {
+      "date": "2023-03-29",
+      "city": "Amsterdam",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "2023-03-31",
+      "city": "Hamburg",
+      "venue": "Barclays Arena"
+    },
+    {
+      "date": "2023-04-01",
+      "city": "Frankfurt",
+      "venue": "Festhalle"
+    },
+    {
+      "date": "2023-04-02",
+      "city": "Cologne",
+      "venue": "Lanxess Arena"
+    },
+    {
+      "date": "2023-04-04",
+      "city": "Tilburg",
+      "venue": "013"
+    },
+    {
+      "date": "2023-04-06",
+      "city": "Copenhagen",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "2023-04-07",
+      "city": "Leipzig",
+      "venue": "Quarterback Immobilien Arena"
+    },
+    {
+      "date": "2023-04-08",
+      "city": "Krakow",
+      "venue": "Tauron Arena"
+    },
+    {
+      "date": "2023-04-10",
+      "city": "Esch-sur-Alzette",
+      "venue": "Rockhal"
+    },
+    {
+      "date": "2023-04-12",
+      "city": "Brussels",
+      "venue": "Forest National"
+    },
+    {
+      "date": "2023-04-14",
+      "city": "Leeds",
+      "venue": "First Direct Arena"
+    },
+    {
+      "date": "2023-04-15",
+      "city": "London",
+      "venue": "OVO Arena Wembley"
+    },
+    {
+      "date": "2023-04-16",
+      "city": "Cardiff",
+      "venue": "Motorpoint Arena"
+    },
+    {
+      "date": "2023-04-18",
+      "city": "Glasgow",
+      "venue": "OVO Hydro"
+    },
+    {
+      "date": "2023-04-21",
+      "city": "Paris",
+      "venue": "Zenith"
+    },
+    {
+      "date": "2023-04-22",
+      "city": "Amsterdam",
+      "venue": "Ziggo Dome"
+    },
+    {
+      "date": "2023-04-24",
+      "city": "Munich",
+      "venue": "Olympiahalle"
+    },
+    {
+      "date": "2023-04-25",
+      "city": "Stuttgart",
+      "venue": "Hanns-Martin-Schleyer-Halle"
+    },
+    {
+      "date": "2023-04-28",
+      "city": "Stockholm",
+      "venue": "Avicii Arena"
+    },
+    {
+      "date": "2023-04-29",
+      "city": "Oslo",
+      "venue": "Spektrum"
+    },
+    {
+      "date": "2023-04-30",
+      "city": "Copenhagen",
+      "venue": "Royal Arena"
+    },
+    {
+      "date": "2023-05-02",
+      "city": "Hannover",
+      "venue": "ZAG Arena"
+    },
+    {
+      "date": "2023-05-03",
+      "city": "Leipzig",
+      "venue": "Quarterback Immobilien Arena"
+    },
+    {
+      "date": "2023-05-05",
+      "city": "Berlin",
+      "venue": "Mercedes-Benz Arena"
+    },
+    {
+      "date": "2023-05-06",
+      "city": "Lodz",
+      "venue": "Atlas Arena"
+    },
+    {
+      "date": "2023-05-07",
+      "city": "Prague",
+      "venue": "O2 Arena"
+    },
+    {
+      "date": "2023-05-09",
+      "city": "Vienna",
+      "venue": "Stadthalle"
+    },
+    {
+      "date": "2023-05-10",
+      "city": "Budapest",
+      "venue": "Arena"
+    },
+    {
+      "date": "2023-05-12",
+      "city": "Cologne",
+      "venue": "Lanxess Arena"
+    },
+    {
+      "date": "2023-05-13",
+      "city": "Antwerp",
+      "venue": "Sportpaleis"
+    },
+    {
+      "date": "2023-05-15",
+      "city": "Hamburg",
+      "venue": "Barclays Arena"
+    },
+    {
+      "date": "2023-05-19",
+      "city": "Tallinn",
+      "venue": "Saku Suurhall"
+    },
+    {
+      "date": "2023-05-20",
+      "city": "Kuopio",
+      "venue": "Kuopio-halli"
+    },
+    {
+      "date": "2023-05-21",
+      "city": "Helsinki",
+      "venue": "Helsingin Jäähalli"
+    }
+  ],
+  "albums": [
+    {
+      "title": "Primo Victoria",
+      "year": 2005,
+      "releaseDate": "4 марта 2005 года",
+      "description": "Дебютный студийный альбом группы, выпущенный в 2005 году. Тексты песен посвящены различным сражениям Второй мировой войны.",
+      "songs": [
+        "Primo Victoria",
+        "Reign of Terror",
+        "Panzer Battalion",
+        "Wolfpack",
+        "Counterstrike",
+        "Stalingrad",
+        "Into the Fire",
+        "Purple Heart",
+        "Metal Machine"
+      ]
+    },
+    {
+      "title": "Attero Dominatus",
+      "year": 2006,
+      "releaseDate": "28 июля 2006 года",
+      "description": "Второй студийный альбом группы, вышедший в 2006 году. Альбом продолжает тему военных действий, начатую на предыдущем альбоме.",
+      "songs": [
+        "Attero Dominatus",
+        "Nuclear Attack",
+        "Rise of Evil",
+        "In the Name of God",
+        "We Burn",
+        "Angels Calling",
+        "Back in Control",
+        "A Light in the Black",
+        "Metal Crüe"
+      ]
+    },
+    {
+      "title": "Metalizer",
+      "year": 2007,
+      "releaseDate": "16 марта 2007 года",
+      "description": "Третий студийный альбом группы, выпущенный в 2007 году как двойной альбом, включающий в себя демо-записи, записанные в 2002 году, а также ранее не издававшиеся треки.",
+      "songs": [
+        "Hellrider",
+        "Thundergods",
+        "Metalizer",
+        "Shadows",
+        "Burn Your Crosses",
+        "7734",
+        "Endless Nights",
+        "Hail to the King",
+        "Thunderstorm",
+        "Speeder",
+        "Masters of the World",
+        "Jawbreaker",
+        "Dream Destroyer",
+        "Panzer Battalion (Demo Version)",
+        "Hellrider (Live in Västerås 2006)"
+      ]
+    },
+    {
+      "title": "The Art of War",
+      "year": 2008,
+      "releaseDate": "30 мая 2008 года",
+      "description": "Четвёртый студийный альбом группы, вышедший в 2008 году. Концепция альбома основана на трактате «Искусство войны» китайского полководца Сунь-цзы.",
+      "songs": [
+        "Sun Tzu Says",
+        "Ghost Division",
+        "The Art of War",
+        "40:1",
+        "Unbreakable",
+        "The Nature of Warfare",
+        "Cliffs of Gallipoli",
+        "Talvisota",
+        "Panzerkampf",
+        "Union (Slopes of St. Benedict)",
+        "The Price of a Mile",
+        "Firestorm",
+        "A Secret"
+      ]
+    },
+    {
+      "title": "Coat of Arms",
+      "year": 2010,
+      "releaseDate": "21 мая 2010 года",
+      "description": "Пятый студийный альбом группы, вышедший в 2010 году. Тексты песен посвящены различным сражениям Второй мировой войны, а также другим историческим событиям.",
+      "songs": [
+        "Coat of Arms",
+        "Midway",
+        "Uprising",
+        "Screaming Eagles",
+        "The Final Solution",
+        "Aces in Exile",
+        "Saboteurs",
+        "Wehrmacht",
+        "White Death",
+        "Metal Ripper"
+      ]
+    },
+    {
+      "title": "Carolus Rex",
+      "year": 2012,
+      "releaseDate": "23 мая 2012 года",
+      "description": "Шестой студийный альбом группы, вышедший в 2012 году. Концептуальный альбом, посвящённый Шведской империи, в основном повествующий о шведском короле Карле XII.",
+      "songs": [
+        "Dominium Maris Baltici",
+        "The Lion From the North",
+        "Gott Mit Uns",
+        "A Lifetime of War",
+        "1 6 4 8",
+        "The Carolean's Prayer",
+        "Carolus Rex",
+        "Killing Ground",
+        "Poltava",
+        "Long Live the King",
+        "Ruina Imperii"
+      ]
+    },
+    {
+      "title": "Heroes",
+      "year": 2014,
+      "releaseDate": "16 мая 2014 года",
+      "description": "Седьмой студийный альбом группы, вышедший в 2014 году. Концептуальный альбом, посвящённый героям Второй мировой войны.",
+      "songs": [
+        "Night Witches",
+        "No Bullets Fly",
+        "Smoking Snakes",
+        "Inmate 4859",
+        "To Hell and Back",
+        "The Ballad of Bull",
+        "Resist and Bite",
+        "Soldier of 3 Armies",
+        "Far from the Fame",
+        "Hearts of Iron"
+      ]
+    },
+    {
+      "title": "The Last Stand",
+      "year": 2016,
+      "releaseDate": "19 августа 2016 года",
+      "description": "Восьмой студийный альбом группы, вышедший в 2016 году. Концептуальный альбом, посвящённый знаменитым последним битвам.",
+      "songs": [
+        "Sparta",
+        "Last Dying Breath",
+        "Blood of Bannockburn",
+        "Diary of an Unknown Soldier",
+        "The Lost Battalion",
+        "Rorke's Drift",
+        "The Last Stand",
+        "Hill 3234",
+        "Shiroyama",
+        "Winged Hussars",
+        "The Last Battle"
+      ]
+    },
+    {
+      "title": "The Great War",
+      "year": 2019,
+      "releaseDate": "19 июля 2019 года",
+      "description": "Девятый студийный альбом группы, вышедший в 2019 году. Концептуальный альбом, посвящённый Первой мировой войне.",
+      "songs": [
+        "The Future of Warfare",
+        "Seven Pillars of Wisdom",
+        "82nd All the Way",
+        "The Attack of the Dead Men",
+        "Devil Dogs",
+        "The Red Baron",
+        "Great War",
+        "A Ghost in the Trenches",
+        "Fields of Verdun",
+        "The End of the War to End All Wars",
+        "In Flanders Fields"
+      ]
+    },
+    {
+      "title": "The War To End All Wars",
+      "year": 2022,
+      "releaseDate": "4 марта 2022 года",
+      "description": "Десятый студийный альбом группы, вышедший в 2022 году. Концептуальный альбом, посвящённый Первой мировой войне, является продолжением альбома The Great War.",
+      "songs": [
+        "Sarajevo",
+        "Stormtroopers",
+        "Dreadnought",
+        "The Unkillable Soldier",
+        "Soldier of Heaven",
+        "Hellfighters",
+        "Race to the Sea",
+        "Lady of the Dark",
+        "The Valley of Death",
+        "Christmas Truce",
+        "Versailles"
+      ]
+    }
+  ]
+}
